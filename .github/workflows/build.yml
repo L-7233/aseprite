@@ -1,4 +1,4 @@
-name: build
+name: biuld
 on: [push, pull_request]
 jobs:
   build:
